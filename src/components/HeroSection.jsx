@@ -535,7 +535,7 @@ export default function HeroSection() {
       <div className="hero__content">
         <div className="hero__badge">
           <span className="hero__badge-dot" />
-          <span className="hero__badge-text">DF LABS // CAFFEINE REENGINEERED</span>
+          <span className="hero__badge-text">LAUNCHING SOON</span>
         </div>
 
         <h1 className="hero__title">
